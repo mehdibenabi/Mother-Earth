@@ -1,1 +1,1 @@
-# First-web-page
+Web page using HTML AND CSS only
